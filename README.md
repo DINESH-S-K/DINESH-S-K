@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DINESH-S-K
+- 👀 I’m interested in Computer Science Field Such as Artificial Intelligence, Machine Learning,Deep Learning,Computer Vision.
+- 🌱 I’m currently learning JavaScript,ReactJs
+- 💞️ I’m looking to collaborate on Python Developers
+- 📫 contact me through email:kokiladinesh2001@gmail.com
